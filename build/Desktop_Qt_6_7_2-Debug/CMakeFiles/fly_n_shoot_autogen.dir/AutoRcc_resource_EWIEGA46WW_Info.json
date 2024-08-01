@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/fly_n_shoot_autogen",
+	"CMAKE_BINARY_DIR" : "/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot",
+	"CMAKE_SOURCE_DIR" : "/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/fly_n_shoot_autogen/include",
+	"INPUTS" : 
+	[
+		"/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/missile.png",
+		"/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/ship.png"
+	],
+	"LOCK_FILE" : "/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/fly_n_shoot_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/home/taamlee/Qt/6.7.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/fly_n_shoot_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/resource.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

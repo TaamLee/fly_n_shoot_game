@@ -1,0 +1,24 @@
+# ninja log v6
+4960	5871	1722524413273043400	fly_n_shoot	7891fabb53208933
+21	728	1722524409031914000	fly_n_shoot_autogen/timestamp	359b856349809044
+13	29	1721316217704787000	CMakeFiles/clean.additional	7889fc6d3b4f5cb2
+1233	1250	1721918072402286900	fly_n_shoot_autogen/EWIEGA46WW/qrc_resource.cpp	fb7b23e2856729b1
+32	2299	1721227817072825000	CMakeFiles/fly_n_shoot.dir/app_main.cpp.o	62ce2a8c9b01915f
+30	47	1721316217721138000	clean	52f4584c2c19f998
+11	355	1722524839366571600	build.ninja	2b0cba719ae0f219
+50	2569	1722520450230384200	CMakeFiles/fly_n_shoot.dir/missel.cpp.o	69119fcbb8fc6a4c
+21	728	1722524409031914000	/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/fly_n_shoot_autogen/timestamp	359b856349809044
+1233	1250	1721918072402286900	/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/fly_n_shoot_autogen/EWIEGA46WW/qrc_resource.cpp	fb7b23e2856729b1
+21	728	1722524409031914000	fly_n_shoot_autogen/mocs_compilation.cpp	359b856349809044
+21	728	1722524409031914000	/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/fly_n_shoot_autogen/mocs_compilation.cpp	359b856349809044
+1257	1680	1721918072411932900	CMakeFiles/fly_n_shoot.dir/fly_n_shoot_autogen/EWIEGA46WW/qrc_resource.cpp.o	2ac7b7ed9a6fae3c
+668	5172	1721058283693253700	CMakeFiles/fly_n_shoot.dir/bullet.cpp.o	6780e3f6845147c6
+165	378	1721468822338894200	CMakeFiles/fly_n_shoot.dir/tunnal.cpp.o	2ed17df997a6c709
+35	2984	1721451050190448000	CMakeFiles/fly_n_shoot.dir/joystick.cpp.o	f618c38a930cdf56
+732	4581	1722524409044937500	CMakeFiles/fly_n_shoot.dir/main.cpp.o	c80682f7baf70dea
+733	4631	1722524409046144000	CMakeFiles/fly_n_shoot.dir/game.cpp.o	8808b82190bf8a2
+73	2519	1722523606862342400	CMakeFiles/fly_n_shoot.dir/player.cpp.o	1f7f6adad01a50e5
+761	4831	1721316218528728500	CMakeFiles/fly_n_shoot.dir/my_rec.cpp.o	30a4d8dabc2fd191
+734	4638	1722524409046694900	CMakeFiles/fly_n_shoot.dir/tunnel.cpp.o	c2d6c1409b7d80a4
+730	4960	1722524409042907300	CMakeFiles/fly_n_shoot.dir/fly_n_shoot_autogen/mocs_compilation.cpp.o	a9ded5d39c0f4298
+53	2555	1722522939731308700	CMakeFiles/fly_n_shoot.dir/ship.cpp.o	2a1c390ad4873acd

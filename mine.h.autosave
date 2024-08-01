@@ -1,0 +1,12 @@
+#ifndef MINE_H
+#define MINE_H
+#include <QGraphicsPixmapItem>
+#include <QObject>
+
+class Mine: public QObject,public QGraphicsPixmapItem {
+    Q_OBJECT
+public:
+    Mine();
+    
+}
+#endif // MINE_H

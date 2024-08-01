@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_fly_n_shoot_FILE /media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/fly_n_shoot)
+set(__QT_DEPLOY_TARGET_fly_n_shoot_TYPE EXECUTABLE)

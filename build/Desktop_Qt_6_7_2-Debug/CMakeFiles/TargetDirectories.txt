@@ -1,0 +1,9 @@
+/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/fly_n_shoot.dir
+/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/fly_n_shoot_autogen_timestamp_deps.dir
+/media/taamlee/778707C04B5B303B/qt_project/fly_n_shoot/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/fly_n_shoot_autogen.dir
